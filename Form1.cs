@@ -19,7 +19,7 @@ namespace GitTraining
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Please add a valid message");
+            MessageBox.Show("Please add a valid message 3");
         }
     }
 }
